@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:InternetShortcutHTMLMaker"
         mc:Ignorable="d"
-        Title="インターネットショートカット→HTMLリンク集" Height="300" Width="400" WindowStyle="ToolWindow">
+        Title="インターネットショートカット to HTMLリンク集" Height="300" Width="400" WindowStyle="ToolWindow">
     <Grid>
         <Border
             Background="#FFCAFFFF" 
